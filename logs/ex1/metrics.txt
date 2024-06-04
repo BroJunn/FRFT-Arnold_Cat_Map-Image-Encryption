@@ -1,0 +1,12 @@
+Performance Metrics:
+--------------------
+Time: 0.75 seconds
+--------------------
+Average PSNR: 33.29 dB
+Average SSIM: 0.81
+--------------------
+Average Correlation Coefficient: 0.94
+Average Entropy: 0.63
+--------------------
+Purtubation Factor: 0.05
+Average Avalanche Effect: 3.49
